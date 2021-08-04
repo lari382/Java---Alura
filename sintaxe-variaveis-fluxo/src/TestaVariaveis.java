@@ -8,7 +8,7 @@ public class TestaVariaveis {
 		idade = 25 + 5;
 		System.out.println(idade);
 		idade = 5*5+5;
-		System.out.println(idade);
+		System.out.println("A idade da Larissa é " + idade);
 	}
 
 }
