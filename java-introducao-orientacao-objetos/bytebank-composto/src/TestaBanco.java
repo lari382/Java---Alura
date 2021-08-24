@@ -9,6 +9,6 @@ public class TestaBanco {
 		Conta contaDaLarissa = new Conta();
 		contaDaLarissa.titular = larissa;
 		System.out.println(contaDaLarissa.titular.profissao);
-
+		
 	}
 }
